@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 300;
+}
+
+h1 {
+	color: green;
+    text-align: center;
+}
+
+h2 {
+    color:purple;
+}
+
+.class1 {
+    font-weight: bold;
+}
+
+.mainsection {
+    margin: auto;
+    width: 50%;
+    float: left;
+}
+
+.sidesection{
+    float: right;
+}
+
+
+.btn {
+    font-weight: bold;
+    background-color: #ffb3b3;
+}
+
+.footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
